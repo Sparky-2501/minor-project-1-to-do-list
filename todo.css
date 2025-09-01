@@ -1,0 +1,24 @@
+body {
+    padding: 20px;
+    background-color: rgb(10, 5, 29);
+    display: flex;
+    justify-content: center;
+}
+
+.hero {
+    height: 600px;
+    width: 500px;
+    background-color: rgba(49, 32, 149, 0.31);
+    color: white;
+    border: 2px solid white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.first{
+ text-align: center;
+}
+
+button{
+    background-color: rgb(103, 103, 224);
+    margin:2px 20px;
+}
