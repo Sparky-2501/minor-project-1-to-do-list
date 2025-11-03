@@ -4,21 +4,21 @@ A simple web-based To-Do list made using HTML, CSS, and JavaScript. Users can ad
 
 🚀 Features
 
-Add new tasks
-Remove completed tasks
-Clean and responsive design
+Add new tasks <br>
+Remove completed tasks <br>
+Clean and responsive design <br>
 
 🧩 Tech Stack
 
-HTML for structure
-CSS for styling
-JavaScript (DOM) for functionality
+HTML for structure <br>
+CSS for styling <br>
+JavaScript (DOM) for functionality <br>
 
 📂 Files
 |
-├── index.html
-├── todo.css
-└── todo.js
+├── index.html <br>
+├── todo.css <br>
+└── todo.js <br>
 
 📸 Preview
 
